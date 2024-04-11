@@ -271,9 +271,10 @@ print("cycle list:", cycle)
 
 '''
 
-image_dir ="C:\\GitHub Repositories\\Traffic\\"
+image_dir ="C:\\GitRepos\\Traffic\\"
 #C:\Users\Nivan\Desktop\Traffic\A1A2\1.png
 #C:\GitHub Repositories\Traffic\A1A2\1.png
+#C:\GitRepos\Traffic\A1A2\1.png
 space = "\\"
 png = ".png"
 
