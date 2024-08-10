@@ -11,3 +11,5 @@ The outputs are the signal light timings for the 4 phases and the 6 cycles label
 
 Run the adpsigcntrl.py to see the results.
 You can also run the "Sim.py" to see the "intersectionj.png" read into the pygame library for testing and future simulation.
+
+[ECNG 3020 Presentati.pdf](https://github.com/user-attachments/files/16570412/ECNG.3020.Presentati.pdf)
