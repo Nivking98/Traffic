@@ -1,3 +1,9 @@
+PRESNTATION:
+[ECNG 3020 Presentation.pdf](https://github.com/user-attachments/files/16570420/ECNG.3020.Presentation.pdf)
+
+RESULTS:
+[Results.pdf](https://github.com/user-attachments/files/16570421/Results.pdf)
+
 The first 4 folders entitled "A1A2" , "B1B2" , "C" and "D" show images from 4 phases of an intersection located in Trindad and Tobago.
 This is considered to be the first dataset for this project.
 The Pasea_scale_model folder depicts an illustration of the intersection with number of lanes present on the horizontal and vertical roads.
@@ -12,4 +18,3 @@ The outputs are the signal light timings for the 4 phases and the 6 cycles label
 Run the adpsigcntrl.py to see the results.
 You can also run the "Sim.py" to see the "intersectionj.png" read into the pygame library for testing and future simulation.
 
-[ECNG 3020 Presentati.pdf](https://github.com/user-attachments/files/16570412/ECNG.3020.Presentati.pdf)
